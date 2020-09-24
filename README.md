@@ -3,5 +3,5 @@
 
 React project made in Codecademy course to refresh and check what I've been learning all along the course.
 
-You could check the live project in the follow link:
+You could check the live project in the following link:
 http://jlaguilardev.me/react_ravenous-project
