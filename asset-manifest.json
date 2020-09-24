@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react_ravenous-project/static/css/main.f2ba9b05.chunk.css",
-    "main.js": "/react_ravenous-project/static/js/main.3c892215.chunk.js",
-    "main.js.map": "/react_ravenous-project/static/js/main.3c892215.chunk.js.map",
+    "main.css": "/react_ravenous-project/static/css/main.fd078607.chunk.css",
+    "main.js": "/react_ravenous-project/static/js/main.86217123.chunk.js",
+    "main.js.map": "/react_ravenous-project/static/js/main.86217123.chunk.js.map",
     "runtime-main.js": "/react_ravenous-project/static/js/runtime-main.285aa39f.js",
     "runtime-main.js.map": "/react_ravenous-project/static/js/runtime-main.285aa39f.js.map",
-    "static/js/2.4f2af0f4.chunk.js": "/react_ravenous-project/static/js/2.4f2af0f4.chunk.js",
-    "static/js/2.4f2af0f4.chunk.js.map": "/react_ravenous-project/static/js/2.4f2af0f4.chunk.js.map",
+    "static/js/2.99d41395.chunk.js": "/react_ravenous-project/static/js/2.99d41395.chunk.js",
+    "static/js/2.99d41395.chunk.js.map": "/react_ravenous-project/static/js/2.99d41395.chunk.js.map",
     "index.html": "/react_ravenous-project/index.html",
-    "precache-manifest.a6d84cb28ebb4a75939a40fa5464ce64.js": "/react_ravenous-project/precache-manifest.a6d84cb28ebb4a75939a40fa5464ce64.js",
+    "precache-manifest.237f65bb1cd143d7cdea0cd4240dccc9.js": "/react_ravenous-project/precache-manifest.237f65bb1cd143d7cdea0cd4240dccc9.js",
     "service-worker.js": "/react_ravenous-project/service-worker.js",
-    "static/css/main.f2ba9b05.chunk.css.map": "/react_ravenous-project/static/css/main.f2ba9b05.chunk.css.map",
-    "static/js/2.4f2af0f4.chunk.js.LICENSE.txt": "/react_ravenous-project/static/js/2.4f2af0f4.chunk.js.LICENSE.txt",
+    "static/css/main.fd078607.chunk.css.map": "/react_ravenous-project/static/css/main.fd078607.chunk.css.map",
+    "static/js/2.99d41395.chunk.js.LICENSE.txt": "/react_ravenous-project/static/js/2.99d41395.chunk.js.LICENSE.txt",
     "static/media/SearchBar.css": "/react_ravenous-project/static/media/background_search_mobile.5d0905e6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.285aa39f.js",
-    "static/js/2.4f2af0f4.chunk.js",
-    "static/css/main.f2ba9b05.chunk.css",
-    "static/js/main.3c892215.chunk.js"
+    "static/js/2.99d41395.chunk.js",
+    "static/css/main.fd078607.chunk.css",
+    "static/js/main.86217123.chunk.js"
   ]
 }
